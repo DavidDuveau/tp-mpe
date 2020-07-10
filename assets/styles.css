@@ -1,0 +1,124 @@
+@font-face {
+  font-family: lato;
+  src: url("/assets/fonts/lato/Lato-Regular.ttf");
+}
+
+@font-face {
+  font-family: lora;
+  src: url("/assets/fonts/Lora/static/Lora-Regular.ttf");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: lora;
+}
+
+body {
+  font-family: lato;
+  color: #666666;
+}
+
+#company-presentation {
+  background-color: #66cccc;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+}
+
+body header div#company-name {
+  display: flex;
+  align-items: center;
+}
+
+body header div img {
+  height: 100px;
+  width: 100px;
+  margin-right: 3em;
+}
+
+#social {
+  margin: 0.5em;
+}
+
+#social a {
+  text-decoration: none;
+  color: #666666;
+}
+
+#social-net {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1em;
+}
+
+#social-net a span {
+  font-size: larger;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: right;
+}
+
+main {
+  display: flex;
+  margin: 2em;
+}
+
+#web-agency {
+  text-align: center;
+  padding: 1em;
+}
+
+#web-agency img {
+  height: 100px;
+  width: 370px;
+}
+
+.btn {
+  width: 10em;
+  border: solid #000;
+  text-align: center;
+  padding: 0.5em;
+  background-color: #66cccc;
+  color: #ff9900;
+  text-decoration: none;
+}
+
+#advise-engine {
+  text-align: center;
+  padding: 1em;
+}
+
+#advise-engine img {
+  height: 100px;
+  width: 370px;
+}
+
+#footer-over {
+  display: flex;
+  justify-content: space-between;
+  margin: 3em;
+}
+
+.footer-info {
+  height: 18em;
+  width: 18em;
+}
+
+footer h2 {
+  text-align: center;
+}
+
+.btn-div2 {
+  display: flex;
+  justify-content: center;
+}
+
+#footer-legal {
+  text-align: center;
+}

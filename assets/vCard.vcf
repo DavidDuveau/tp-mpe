@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Banks;Tim
+FN:Tim Banks
+ORG:My Little Company
+TITLE:Chief Executive Officer
+TEL;TYPE=WORK,VOICE:(717) 574-5688
+ADR;TYPE=WORK:;;1000 London City at 10 Downing Street;England
+LABEL;TYPE=:;;1000 London City at 10 Downing Street;\nEngland
+EMAIL;TYPE=PREF, INTERNET:TBanks@mlc.com
+REV:20080424T195243Z
+END:VCARD
